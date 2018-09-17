@@ -3,10 +3,10 @@ html {
 }
 
 
-#ostrich {		 #ostrich {
-   position: absolute;		   position: absolute;
-   top: 50px;		   top: 50px;
-   right: 0;		   right: 0;
+#ostrich {		
+   position: absolute;		  
+   top: 50px;		  
+   right: 0;		  
  }
 
 /* Write your solution here */
